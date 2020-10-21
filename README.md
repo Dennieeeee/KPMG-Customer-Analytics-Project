@@ -29,7 +29,7 @@ Finally, I will present the key findings.
 <summary>Show/Hide</summary>
 <h5 align="center">Example of Lemmatisation and Stemmation Applied to a Review and Review Summary</h5>
 <p align="center">
-  <img src="https://github.com/awesomeahi95/Hotel_Review_NLP/blob/master/Images/lemm_stemm_ex.png" width=600>
+  <img src="https://github.com/>
 </p>
   
   
