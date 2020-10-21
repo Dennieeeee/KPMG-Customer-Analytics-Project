@@ -1,8 +1,8 @@
 # KPMG-virtual-internship Project
 ## Overview
-This is KPMG virtual internship that is available on InsideSherpa. I will be using the customer dataset provided to conduct customer segmentation and find useful information.
-First, I will ensure the data quality and prepare the data for the next step, which is data insights.
-Second, I will use Python to find data insights.
+This project is sponsored by KPMG. The datasets including customer and product information were provided by one of KPMG's clients, Sprocket Central Pty Ltd. I will be using the data to conduct customer segmentation and find useful information. The goal is use the historical customer information to find out who the marketing department should be targeting out of the 1000 new customer list.
+- First, I will ensure the data quality and prepare the data for the next step
+- Second, I will use Python to find data insights.
 Finally, I will present the key findings.
 
 ## Table of Contents
