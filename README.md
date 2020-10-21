@@ -3,3 +3,8 @@ This is KPMG virtual internship that is available on InsideSherpa. I will be usi
 First, I will ensure the data quality and prepare the data for the next step, which is data insights.
 Second, I will use Python to find data insights.
 Finally, I will present the key findings.
+
+## Table of Contents
+<details open>
+<summary>Show/Hide</summary>
+<br>
