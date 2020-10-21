@@ -12,14 +12,17 @@ Finally, I will present the key findings.
 1. [ File Descriptions ](#File_Description)
 2. [ Technologies Used ](#Technologies_Used)    
 3. [ Structure ](#Structure)
-4. [ Executive Summary ](#Executive_Summary)
-   * [ 1. Webscraping, Early EDA, and Cleaning ](#Webscraping_Early_EDA_and_Cleaning)
-       * [ Webscraping ](#Webscraping)
-       * [ Early EDA and Cleaning](#Early_EDA_and_Cleaning)
+4. [ Statistical Summary ](#Executive_Summary)
+   * [ 1. Cleaning and Early EDA ](#Early_EDA_and_Cleaning)
+       * [ Solve the Data Quality Issues](#Data_Quality_Issues)
    * [ 2. Further EDA and Preprocessing ](#Further_EDA_and_Preprocessing) 
+       * [ Univariate and Muti-variate Tests](#Early_EDA_and_Cleaning)
    * [ 3. Modelling and Hyperparameter Tuning ](#Modelling)
    * [ 4. Evaluation ](#Evaluation)
        * [ Future Improvements ](#Future_Improvements)
-   * [ 5. Neural Network Modelling ](#Neural_Network_Modelling)
-   * [ 6. Revaluation and Deployment ](#Revaluation)
+</details>
+
+<a name="Executive_Summary"></a>
+## Statistical Summary
+<details open>
 </details>
