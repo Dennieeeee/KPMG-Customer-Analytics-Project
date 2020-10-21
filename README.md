@@ -27,7 +27,7 @@ Finally, I will present the key findings.
 ## Statistical Summary
 <details open>
 <summary>Show/Hide</summary>
-<h5 align="center">Example of Lemmatisation and Stemmation Applied to a Review and Review Summary</h5>
+<h5 align="center">Title</h5>
 <p align="center">
   <img src="https://github.com/>
 </p>
