@@ -29,7 +29,7 @@ Finally, I will present the key findings.
 <summary>Show/Hide</summary>
 <h5 align="center">Title</h5>
 <p align="center">
-  <img src="https://github.com/Dennieeeee/KPMG-Customer-Analytics-Project/blob/master/Images/Affluent.png>
+  <img src="https://github.com/Dennieeeee/KPMG-Customer-Analytics-Project/blob/master/Images/Affluent.png" width=600>
 </p>
 </details>
 
