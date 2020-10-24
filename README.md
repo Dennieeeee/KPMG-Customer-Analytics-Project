@@ -10,7 +10,7 @@ This project is sponsored by KPMG. The datasets including customer and product i
 Finally, I will present the key findings.
 
 ## Findings and Insights
-Tableau Dashboard: 'https://public.tableau.com/profile/dengyuan.tan#!/'
+Tableau Dashboard: 'https://public.tableau.com/profile/dengyuan.tan#!/vizhome/KPMGSummaryDashboard_16035112669790/Dashboard1'
 
 ## Table of Contents
 <details open>
