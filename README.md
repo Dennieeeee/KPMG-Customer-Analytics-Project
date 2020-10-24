@@ -27,12 +27,14 @@ Finally, I will present the key findings.
 ## Statistical Summary
 <details open>
 <summary>Show/Hide</summary>
-<h5 align="center">Title</h5>
+  I have subset the data into three different categories based on wealth segment.I built bar charts to compare the number of purchases made by men and women
+  for each subset of data. As a result, Solex is the most popular brand and women tend to make more purchases than men.
+<h5 align="center">Compare Customers in Different Wealth Segment</h5>
   <table>
   <tr>
-    <td><img src="https://github.com/Dennieeeee/KPMG-Customer-Analytics-Project/blob/master/Images/Affluent.png" width=200></td>
-    <td><img src="https://github.com/Dennieeeee/KPMG-Customer-Analytics-Project/blob/master/Images/High%20Net%20Worth.png" width=200></td>
-    <td><img src="https://github.com/Dennieeeee/KPMG-Customer-Analytics-Project/blob/master/Images/Mass%20Customer.png" width 200></td>
+    <td><img src="https://github.com/Dennieeeee/KPMG-Customer-Analytics-Project/blob/master/Images/Affluent.png" width=350></td>
+    <td><img src="https://github.com/Dennieeeee/KPMG-Customer-Analytics-Project/blob/master/Images/High%20Net%20Worth.png" width=350></td>
+    <td><img src="https://github.com/Dennieeeee/KPMG-Customer-Analytics-Project/blob/master/Images/Mass%20Customer.png" width=350></td>
   </tr>                                                                                                      
   </table>
 
