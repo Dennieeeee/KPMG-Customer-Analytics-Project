@@ -2,7 +2,7 @@
 
 ### Feel free to contact me:
 Email: dengyuantan@gmail.com <br>
-LinkedIn: www.linkedin.com/in/ahilan-srivishnumohan/ <br>
+LinkedIn: https://www.linkedin.com/in/dengyuan-tan/<br>
 ## Overview
 This project is sponsored by KPMG. The datasets including customer and product information were provided by one of KPMG's clients, Sprocket Central Pty Ltd. I will be using the data to conduct customer segmentation and find useful information. The goal is use the historical customer information to find out who the marketing department should be targeting out of the 1000 new customer list.
 - First, I will ensure the data quality and prepare the data for the next step
@@ -32,7 +32,7 @@ Tableau Dashboard: 'https://public.tableau.com/profile/dengyuan.tan#!/vizhome/KP
 
 <a name="File_Description"></a>
 ## File_Description
-File link: "https://drive.google.com/drive/u/1/folders/12JTK-bgyViZ1uQ4xjS7j4xD9ukaZGvFQ"
+File link: "https://drive.google.com/file/d/1MAQhwAGqGn0mTNcOatJGFFXUK1DBivR_/view?usp=sharing"
 
 <a name="Technologies_Used"></a>
 ## Technologies Used
