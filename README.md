@@ -28,9 +28,18 @@ Finally, I will present the key findings.
 <details open>
 <summary>Show/Hide</summary>
 <h5 align="center">Title</h5>
-<p align="center">
-  <img src="https://github.com/Dennieeeee/KPMG-Customer-Analytics-Project/blob/master/Images/Affluent.png" width=600>
-</p>
+  <img src="https://github.com/Dennieeeee/KPMG-Customer-Analytics-Project/blob/master/Images/Affluent.png" width=200>
+  <img src="https://github.com/Dennieeeee/KPMG-Customer-Analytics-Project/blob/master/Images/High%20Net%20Worth.png" width 200>
+  <img src="https://github.com/Dennieeeee/KPMG-Customer-Analytics-Project/blob/master/Images/Mass%20Customer.png" width 200>
+  
+  <table>
+  <tr>
+    <td><img src="https://github.com/Dennieeeee/KPMG-Customer-Analytics-Project/blob/master/Images/Affluent.png" width=200></td>
+    <td><img src="https://github.com/Dennieeeee/KPMG-Customer-Analytics-Project/blob/master/Images/High%20Net%20Worth.png" width=200></td>
+    <td><img src="https://github.com/Dennieeeee/KPMG-Customer-Analytics-Project/blob/master/Images/Mass%20Customer.png" width 200></td>
+  </tr>                                                                                                      
+  </table>
+
 </details>
 
 Tableau Dashboard: 'https://public.tableau.com/profile/dengyuan.tan#!/'
