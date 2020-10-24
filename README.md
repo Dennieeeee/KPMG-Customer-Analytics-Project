@@ -1,9 +1,16 @@
 # KPMG-virtual-internship Project
+
+Feel free to contact me:
+Email: dengyuantan@gmail.com <br>
+LinkedIn: www.linkedin.com/in/ahilan-srivishnumohan/ <br>
 ## Overview
 This project is sponsored by KPMG. The datasets including customer and product information were provided by one of KPMG's clients, Sprocket Central Pty Ltd. I will be using the data to conduct customer segmentation and find useful information. The goal is use the historical customer information to find out who the marketing department should be targeting out of the 1000 new customer list.
 - First, I will ensure the data quality and prepare the data for the next step
 - Second, I will use Python to find data insights.
 Finally, I will present the key findings.
+
+## Findings and Insights
+Tableau Dashboard: 'https://public.tableau.com/profile/dengyuan.tan#!/'
 
 ## Table of Contents
 <details open>
@@ -40,4 +47,3 @@ Finally, I will present the key findings.
 
 </details>
 
-Tableau Dashboard: 'https://public.tableau.com/profile/dengyuan.tan#!/'
