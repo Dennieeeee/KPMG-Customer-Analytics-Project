@@ -1,6 +1,6 @@
 # KPMG-virtual-internship Project
 
-Feel free to contact me:
+### Feel free to contact me:
 Email: dengyuantan@gmail.com <br>
 LinkedIn: www.linkedin.com/in/ahilan-srivishnumohan/ <br>
 ## Overview
@@ -28,6 +28,23 @@ Tableau Dashboard: 'https://public.tableau.com/profile/dengyuan.tan#!/vizhome/KP
    * [ 3. Modelling and Hyperparameter Tuning ](#Modelling)
    * [ 4. Evaluation ](#Evaluation)
        * [ Future Improvements ](#Future_Improvements)
+</details>
+
+<a name="File_Description"></a>
+## File_Description
+File link: "https://drive.google.com/drive/u/1/folders/12JTK-bgyViZ1uQ4xjS7j4xD9ukaZGvFQ"
+
+<a name="Technologies_Used"></a>
+## Technologies Used
+<details open>
+<a name="Technologies_Used"></a>
+<summary>Show/Hide</summary>
+
+  * <strong>Python</strong><br>
+  * <strong>Pandas</strong><br>
+  * <strong>Numpy</strong><br>
+  * <strong>Matplotlib</strong><br>
+  * <strong>Seaborn</strong><br>
 </details>
 
 <a name="Executive_Summary"></a>
