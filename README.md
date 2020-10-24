@@ -29,10 +29,8 @@ Finally, I will present the key findings.
 <summary>Show/Hide</summary>
 <h5 align="center">Title</h5>
 <p align="center">
-  <img src="https://github.com/>
+  <img src="https://github.com/Dennieeeee/KPMG-Customer-Analytics-Project/blob/master/Images/Affluent.png>
 </p>
-  
-  
 </details>
 
-Tableau Dashboard: https://public.tableau.com/profile/dengyuan.tan#!/
+Tableau Dashboard: 'https://public.tableau.com/profile/dengyuan.tan#!/'
