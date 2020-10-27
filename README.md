@@ -51,16 +51,21 @@ File link: "https://drive.google.com/file/d/1MAQhwAGqGn0mTNcOatJGFFXUK1DBivR_/vi
 ## Statistical Summary
 <details open>
 <summary>Show/Hide</summary>
-  I have subset the data into three different categories based on wealth segment.I built bar charts to compare the number of purchases made by men and women
+  I have subset the data into three different categories based on wealth segment. I built bar charts to compare the number of purchases made by men and women
   for each subset of data. As a result, Solex is the most popular brand and women tend to make more purchases than men.
+  - Affluent USD 500K - 999k
+  - Mass Customer: USD 250K - 499K
+  - High Net Worth: USD 1 Million to 3.5 Million
+
 <h5 align="center">Compare Customers in Different Wealth Segment</h5>
   <table>
   <tr>
-    <td><img src="https://github.com/Dennieeeee/KPMG-Customer-Analytics-Project/blob/master/Images/Affluent.png" width=350></td>
-    <td><img src="https://github.com/Dennieeeee/KPMG-Customer-Analytics-Project/blob/master/Images/High%20Net%20Worth.png" width=350></td>
-    <td><img src="https://github.com/Dennieeeee/KPMG-Customer-Analytics-Project/blob/master/Images/Mass%20Customer.png" width=350></td>
+    <td><img src="https://github.com/Dennieeeee/KPMG-Customer-Analytics-Project/blob/master/Images/Affluent.png" width=400></td>
+    <td><img src="https://github.com/Dennieeeee/KPMG-Customer-Analytics-Project/blob/master/Images/High%20Net%20Worth.png" width=400></td>
+    <td><img src="https://github.com/Dennieeeee/KPMG-Customer-Analytics-Project/blob/master/Images/Mass%20Customer.png" width=400></td>
   </tr>                                                                                                      
   </table>
+Reference: "https://advisor.johnhancockinsurance.com/content/dam/JHINS/images/NLI/Home%20Log%20Out/Life%20Insurance/Collateral/large-case/day-2/2019_sri_wealth_segments.pdf"
 
 </details>
 
