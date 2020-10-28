@@ -65,6 +65,20 @@ File link: "https://drive.google.com/file/d/1MAQhwAGqGn0mTNcOatJGFFXUK1DBivR_/vi
     <td><img src="https://github.com/Dennieeeee/KPMG-Customer-Analytics-Project/blob/master/Images/Mass%20Customer.png" width=400></td>
   </tr>                                                                                                      
   </table>
+
+<h5 align="center">Brand Popularity Women vs. Men</h5>
+<p align="center">
+  <img src="https://github.com/Dennieeeee/KPMG-Customer-Analytics-Project/blob/master/Images/women%20vs.%20men.png" width=600>
+</p>
+
+<h5 align="center">Brand POpularity for People with High Buying Power</h5>
+<table>
+  <tr>
+    <td><img src="https://github.com/Dennieeeee/KPMG-Customer-Analytics-Project/blob/master/Images/High%20Buying%20Power's%20favoriate%20brand.png" width=600></td>
+    <td><img src="https://github.com/Dennieeeee/KPMG-Customer-Analytics-Project/blob/master/Images/Rich%20Female%20and%20Male%20Favorite%20Brand.png" width=600</td>
+  </tr>                                                                                                      
+</table>
+
 Reference: "https://advisor.johnhancockinsurance.com/content/dam/JHINS/images/NLI/Home%20Log%20Out/Life%20Insurance/Collateral/large-case/day-2/2019_sri_wealth_segments.pdf"
 
 </details>
