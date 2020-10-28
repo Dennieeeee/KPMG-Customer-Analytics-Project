@@ -19,8 +19,7 @@ Tableau Dashboard: 'https://public.tableau.com/profile/dengyuan.tan#!/vizhome/KP
 
 1. [ File Descriptions ](#File_Description)
 2. [ Technologies Used ](#Technologies_Used)    
-3. [ Structure ](#Structure)
-4. [ Statistical Summary ](#Statistical_Summary)
+3. [ Statistical Summary ](#Statistical_Summary)
    * [ 1. Cleaning and Early EDA ](#Early_EDA_and_Cleaning)
        * [ Solve the Data Quality Issues](#Data_Quality_Issues)
    * [ 2. Further EDA and Preprocessing ](#Further_EDA_and_Preprocessing) 
