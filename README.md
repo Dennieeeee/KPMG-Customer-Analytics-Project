@@ -70,7 +70,7 @@ File link: "https://drive.google.com/file/d/1MAQhwAGqGn0mTNcOatJGFFXUK1DBivR_/vi
   <img src="https://github.com/Dennieeeee/KPMG-Customer-Analytics-Project/blob/master/Images/women%20vs.%20men.png" width=600>
 </p>
 
-<h5 align="center">Brand POpularity for People with High Buying Power</h5>
+<h5 align="center">Brand Popularity for People with High Buying Power</h5>
 <table>
   <tr>
     <td><img src="https://github.com/Dennieeeee/KPMG-Customer-Analytics-Project/blob/master/Images/High%20Buying%20Power's%20favoriate%20brand.png" width=600></td>
